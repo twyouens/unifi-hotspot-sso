@@ -1,6 +1,6 @@
 # Single Sign on SAML authorization for UniFi controller
 
-This is a captive portal service that allows users to authenticate with SAML SSO. It is based of the Art-of-Wifi UniFi API and https://github.com/simplesamlphp/simplesamlphp.
+This is a captive portal service that allows users to authenticate with SAML SSO. It is based of the [Art-of-Wifi UniFi API](https://github.com/Art-of-WiFi/UniFi-API-client) and [SimpleSAMLphp](https://github.com/simplesamlphp/simplesamlphp).
 
 Release coming in July.
 

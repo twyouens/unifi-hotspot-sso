@@ -1,7 +1,7 @@
 # Single Sign on SAML authorization for UniFi controller
 
-This is a service that uses the Art-of-wifi Unifi API and SimpleSamlPHP to provide authorization for users/ guests on a UniFi network.
+This is a captive portal service that allows users to authenticate with SAML SSO. It is based of the Art-of-Wifi UniFi API and SimpleSAMLphp.
 
-Release coming in August.
+Release coming in July.
 
-In my organisation we use Keycloak as our IDP, so this will show how to set it up with Keycloak and SimpleSamlPHP.
+In my organisation we use Keycloak as our IDP, so this will show how to set it up with Keycloak and SimpleSamlPHP. For the UniFi controller we have it on a Cloud Key gen 1.
